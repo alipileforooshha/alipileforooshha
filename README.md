@@ -1,10 +1,12 @@
-<div align="center">
-  <image src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center">
-</div>
-
 <h2 align="center">Hi, I'm Ali</h2>
 
 <h3 align="center">Backend Developer</h3>
+
+<div align="center">
+  <image src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center">
+</div>
+<br><br>
+
 <p>I make Laravel Apps for a living :-)</p>
 <div>
   my portfolio : http://alipileforooshha.ir
