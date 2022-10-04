@@ -65,7 +65,7 @@
 </ul>
 <image src="https://github-readme-streak-stats.herokuapp.com/?user=alipileforooshha">
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipileforooshha&layout=compact">
-
+<image src="https://github-readme-stats.vercel.app/api?username=alipileforooshha&show_icons=true&theme=radical">
 <div>
   <img src="https://komarev.com/ghpvc/?username=alipileforooshha&style=flat-square&color=blue" alt=""/>
 </div>
