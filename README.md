@@ -6,11 +6,11 @@
   <image src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center">
 </div>
 <br><br>
-
+<!--
 <p>I make Laravel Apps for a living :-)</p>
 <div>
   my portfolio : http://alipileforooshha.ir
-</div>
+</div>-->
 <br>
 
 <h4>About me</h4>
